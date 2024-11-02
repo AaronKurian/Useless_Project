@@ -85,4 +85,3 @@ Build Photos
 
 Made with ❤️ at TinkerHub Useless Projects
 
-Static Badge Static Badge
