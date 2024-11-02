@@ -1,11 +1,11 @@
 # [Project Name] 🎯
 ## Basic Details
-## Team Name: [Name]
+## Team Name: NEXUS
 ## Team Members
 
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aaron George Abraham - MEC
+- Member 2: Vasanth R - MEC
+- Member 3: Aaron Kurian Abraham - MEC
 
 ### Project Description
 
