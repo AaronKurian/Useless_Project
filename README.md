@@ -1,7 +1,7 @@
 
 <img width="1280" alt="useless" src="https://github.com/user-attachments/assets/31e507df-b146-411d-ae46-f2de81d45610">
 
-# [Project Name] 🎯
+# Scam Rover 🎯
 ## Basic Details
 ## Team Name: NEXUS
 ## Team Members
@@ -12,49 +12,38 @@
 
 ### Project Description
 
-[2-3 lines about what your project does]
+The project is just a rover that can be controlled by WIFI anywhere. It uses ESP32's wifi capabilities to communicate with the user.
 ### The Problem (that doesn't exist)
 
-[What ridiculous problem are you solving?]
+Developing an efficient and reliable remote-controlled rover that can be operated from any location presents challenges in ensuring stable communication and real-time responsiveness.
 ### The Solution (that nobody asked for)
 
-[How are you solving it? Keep it fun!]
+This project leverages the ESP32’s Wi-Fi capabilities to create a rover that can be controlled via a wireless network, providing users with seamless remote access. The primary objective is to establish a robust communication link between the rover and the user, addressing potential issues such as connectivity drops, latency, and user interface usability to ensure smooth and responsive control over long distances.
 ## Technical Details
 ### Technologies/Components Used
 
 For Software:
 
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- C++, JavaScript & Python
+- NextJS, FastAPI
 
 For Hardware:
 
-- [List main components]
-- [List specifications]
-- [List tools required]
+- ESP32
+- L298N
 
 ### Implementation
 
 For Software:
 ## Installation
 
-[commands]
 ## Run
 
-[commands]
+```
+Frontend: npm run dev
+Backend Web Socket: python3 main.py
+```
 ### Project Documentation
-
-### For Software:
-## Screenshots (Add at least 3)
-
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
-
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
-Diagrams
 
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
@@ -73,8 +62,7 @@ Build Photos
 ![Final](Add photo of final product here) Explain the final build
 ## Project Demo
 ### Video
-
-[Add your demo video link here] Explain what the video demonstrates
+https://drive.google.com/file/d/1JEPHtl_YyIepsN0CgwvWSOF09kAz1tjT/view?usp=drivesdk
 ### Additional Demos
 
 [Add any extra demo materials/links]
