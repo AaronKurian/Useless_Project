@@ -50,8 +50,8 @@ For Hardware:
 https://drive.google.com/file/d/1JEPHtl_YyIepsN0CgwvWSOF09kAz1tjT/view?usp=drivesdk
 
 ### Team Contributions
-- Aaron George: Hardware code
-- Aaron Kurain: Hardware setup
+- Aaron George Abraham: Hardware code
+- Aaron Kurian Abraham: Hardware setup
 - Vasanth R : Software code
 
 Made with ❤️ at TinkerHub Useless Projects
