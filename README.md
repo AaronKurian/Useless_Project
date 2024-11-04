@@ -47,7 +47,7 @@ Backend Web Socket: python3 main.py
 For Hardware:
 ## Project Demo
 ### Video
-https://drive.google.com/file/d/1JEPHtl_YyIepsN0CgwvWSOF09kAz1tjT/view?usp=drivesdk
+[https://drive.google.com/file/d/1JEPHtl_YyIepsN0CgwvWSOF09kAz1tjT/view?usp=drivesdk](https://github.com/user-attachments/assets/757c60d6-2967-4dbd-a15e-8136bba15cb5)
 
 ### Team Contributions
 - Aaron George Abraham: Hardware code
